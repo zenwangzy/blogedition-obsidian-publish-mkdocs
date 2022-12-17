@@ -1,0 +1,4 @@
+- the basic operations 
+- the `loc` fuc and `iloc` fuc
+- the `groupby` fuc and sorting 
+- 
